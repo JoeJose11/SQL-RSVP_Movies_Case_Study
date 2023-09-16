@@ -1,2 +1,2 @@
 # SQL-RSVP_Movies_Case_Study
- SQL Case Study - RSVP Movies
+Conducted an extensive case study as part of my master's program, focusing on RSVP Movies, a renowned Indian film production company. The objective was to strategize their hypothetical debut into the global market with a movie release planned for 2022. Applied SQL expertise to analyze a dataset spanning three years of movie releases, extracting valuable insights. These insights were used to formulate data-driven recommendations, showcasing my analytical skills and strategic thinking in a simulated real-world scenario.
